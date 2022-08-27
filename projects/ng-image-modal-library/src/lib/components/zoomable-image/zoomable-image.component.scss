@@ -1,0 +1,12 @@
+.ngmi-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: calc(100% - env(safe-area-inset-right) - env(safe-area-inset-left));
+  height: calc(100% - env(safe-area-inset-top) - env(safe-area-inset-bottom));
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 48px 48px 0 48px;
+  z-index: 9999;
+}

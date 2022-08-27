@@ -1,2 +1,2 @@
-# NG-Image-Modal
-Angular directive to open and zoom images in a modal manner
+# NG Image Modal
+Component which allows image to be opened in a modal with additional zoom functionality
